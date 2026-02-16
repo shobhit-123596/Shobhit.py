@@ -5,4 +5,4 @@ Currently exploring DAA and DBMS.
 Future Goal – Specialize in Cybersecurity.
 
 PROGRAM INCLUDES IN THIS FILE.
-Various programs of python.
+Various programs of python as well as projects.
